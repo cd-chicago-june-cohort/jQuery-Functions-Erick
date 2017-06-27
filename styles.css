@@ -1,0 +1,18 @@
+#slideDown img{
+    width: 200px;
+    height: 200px;
+}
+#slideUp img{
+    width: 200px;
+    height: 200px;
+}
+#slideToggle img{
+    width: 200px;
+    height: 200px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
